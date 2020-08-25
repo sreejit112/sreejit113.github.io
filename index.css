@@ -1,0 +1,54 @@
+body{
+background: linear-gradient(45deg, purple, blue);
+text-align: center;
+}
+
+h1{
+color: gold;
+background-color: darkMagenta;
+padding: 20px 0 20px 0;
+margin: 30px 50px 30px 50px;
+border-radius: 30px;
+font-family: Comic Sans MS;
+font-weight: bold;
+}
+
+h2{
+color: ghostWhite;
+margin: 0 0 5px 0;
+font-family: Forte;
+font-size: 30px;
+}
+
+p{
+margin: 30px 0 10px 0;
+font-size: 30px;
+color: lightSeaGreen;
+font-family: cursive;
+background: linear-gradient(135deg, black, red);
+padding: 20px 0px 20px 0px;
+margin: 60px 200px 0px 200px;
+border-radius: 30px;
+}
+
+strong{
+color: brickRed;
+}
+
+img{
+border: solid greenYellow 10px;
+width: 200px;
+height: 200px;
+margin: 50px 0 0 0;
+border-radius: 50px;
+}
+
+button{
+margin: 0 0 10px 0;
+}
+
+a{
+font-family: Castellar;
+font-size: 20px;
+color: orangeRed;
+}
